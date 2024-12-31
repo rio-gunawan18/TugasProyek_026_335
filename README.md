@@ -24,4 +24,6 @@ Here is the list of all the dependencies that are needed to run this tutorial. T
 ### Getting Started
 ### License
 ### Team
+- [M. Rio Gunawan](https://github.com/rio-gunawan18) (202110370311026)
+- [Muhammad Daffa Nugraha](https://github.com/rio-gunawan18) (202110370311335)
 ### Acknowledgments
