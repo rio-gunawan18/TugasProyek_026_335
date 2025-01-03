@@ -9,6 +9,9 @@
 - [Acknowledgments](#acknowledgments)
 
 ### About
+Spotify merupakan layanan musik digital, podcast, dan video yang memberikan akses ke jutaan lagu dan konten lain dari kreator di seluruh dunia. Dari dataset ini bisa menjadi rekomendasi bagi penikmat musik yang ingin mendengarkan musik pada aplikasi spotify.
+
+Data ini berasal dari Spotify dan diakses melalui package spotify, yang memudahkan pengambilan data pribadi atau metadata lagu dari API Spotify. Kaylin Pavlik menggunakan package ini untuk mengumpulkan 5000 lagu dari 6 genre utama (EDM, Latin, Pop, R&B, Rap, Rock) dan menganalisis fitur audionya untuk eksplorasi serta klasifikasi lagu.Dataset dapat diakses melalui ['github'](https://github.com/rfordatascience/tidytuesday/blob/main/data/2020/2020-01-21/readme.md)
 ### Dependencies
 The tutorial has been tested using Python 3.12.0.
 
