@@ -50,6 +50,17 @@ Deskripsi Spotify
 |duration_ms              |double    |Durasi lagu dalam milidetik|
 ### The Problem
 ### Our Solution
+To address this problem, we have developed a tool called KnowMore. KnowMore is an automated knowledge discovery tool integrated within the SPARC Portal that allows users of the portal to visualize, in just a few clicks, potential similarities, differences, and connections between multiple SPARC datasets of their choice. This simple process for using KnowMore is illustrated in the figure below.
+
+<br/>
+<p align="center">
+   <img src="https://github.com/SPARC-FAIR-Codeathon/KnowMore/blob/main/docs/knowmore-usage-blue.png" alt="knowmore-usage" width="900">
+  <br/> 
+  <br/> 
+  <i> Illustration of the simple user side workflow of KnowMore. Note that the tool is not currently integrated in the offical SPARC Portal, but accessible through our own deployed prototype. We refer to the <a href="https://github.com/SPARC-FAIR-Codeathon/KnowMore#using-knowmore"> "Using KnowMore"</a>, section for details. </i>
+  </img>
+</p> 
+<br/>
 
 ### Dependencies
 The tutorial has been tested using Python 3.12.0.
