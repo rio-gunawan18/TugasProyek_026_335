@@ -7,7 +7,6 @@
 - [The Problem](#the-problem)
 - [Our Solution](#our-solution)
 - [Dependencies](#dependencies)
-- [License](#license)
 - [Team](#team)
 
 ### About
@@ -48,7 +47,12 @@ Deskripsi Spotify
 |valence                  |double    | Ukuran dari 0,0 hingga 1,0 yang menggambarkan kepositifan musik yang disampaikan oleh sebuah lagu.|
 |tempo                    |double    | Perkiraan tempo keseluruhan trek dalam ketukan per menit (BPM).|
 |duration_ms              |double    |Durasi lagu dalam milidetik|
+
 ### The Problem
+Permasalahan utama proyek ini adalah bagaimana menganalisis dan mengeksplorasi data yang sangat beragam dan kaya dari Spotify untuk memahami pola yang ada dalam lagu-lagu, terutama berdasarkan waktu dan subkelompok. Dataset ini berisi informasi rinci tentang lagu, seperti artis, album, genre, subgenre, popularitas, dan nama lagu. Selain itu, ada fitur audio seperti danceability, energy, loudness, tempo, key, mode, dan lainnya. Tujuan dari analisis data ini adalah untuk menemukan hubungan atau pola menarik yang menunjukkan preferensi pengguna, karakteristik musik, dan bagaimana faktor waktu (seperti tahun rilis) dan subkelompok (seperti genre dan subgenre).
+
+Selain itu, ada masalah tambahan tentang bagaimana memasukkan berbagai fitur ini ke dalam analisis yang konsisten dengan mempertimbangkan elemen waktu dan subkelompok. Misalnya, menentukan apakah popularitas lagu berubah seiring waktu atau bagaimana genre tertentu menjadi dominan selama periode waktu tertentu. Selain itu, sangat penting untuk mengeksplorasi hubungan antara subkelompok genre dan fitur musik lainnya, seperti apakah lagu dengan tempo cepat lebih dominan dalam genre tertentu atau bagaimana fitur seperti energi atau danceability berbeda di antara subgenre. Proses EDA membutuhkan pendekatan yang hati-hati untuk menemukan wawasan yang relevan dari data yang besar dan kompleks ini. Selain itu, pola yang mungkin tersembunyi di balik data harus divisualisasikan.
+
 ### Our Solution
 To address this problem, we have developed a tool called KnowMore. KnowMore is an automated knowledge discovery tool integrated within the SPARC Portal that allows users of the portal to visualize, in just a few clicks, potential similarities, differences, and connections between multiple SPARC datasets of their choice. This simple process for using KnowMore is illustrated in the figure below.
 
