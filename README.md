@@ -1,5 +1,3 @@
-![123](https://github.com/user-attachments/assets/90505db7-08de-4d3f-aaf4-7bfd2bf1afb3)# Rekomendasi Lagu Pada Spotify
-
 ## Table of Contents
 - [About](#about)
 - [Objective](#objective)
