@@ -1,4 +1,4 @@
-# Rekomendasi Lagu Pada Spotify
+![123](https://github.com/user-attachments/assets/90505db7-08de-4d3f-aaf4-7bfd2bf1afb3)# Rekomendasi Lagu Pada Spotify
 
 ## Table of Contents
 - [About](#about)
@@ -58,7 +58,10 @@ To address this problem, we have developed a tool called KnowMore. KnowMore is a
 
 <br/>
 <p align="center">
-   <img src="https://github.com/SPARC-FAIR-Codeathon/KnowMore/blob/main/docs/knowmore-usage-blue.png" alt="knowmore-usage" width="900">
+   <img src="https://github.com/user-attachments/assets/7a6cc1cf-9950-48a7-b0e0-1baf96fb5347" alt="knowmore-usage" width="900">
+
+
+
   <br/> 
   <br/> 
   <i> Illustration of the simple user side workflow of KnowMore. Note that the tool is not currently integrated in the offical SPARC Portal, but accessible through our own deployed prototype. We refer to the <a href="https://github.com/SPARC-FAIR-Codeathon/KnowMore#using-knowmore"> "Using KnowMore"</a>, section for details. </i>
