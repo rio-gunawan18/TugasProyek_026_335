@@ -1,3 +1,6 @@
+# Rekomendasi Lagu Spotify
+![image](https://github.com/user-attachments/assets/a993b073-273d-4c31-91ff-3359303b1aae)
+
 ## Table of Contents
 - [About](#about)
 - [Objective](#objective)
