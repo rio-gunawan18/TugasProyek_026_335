@@ -65,7 +65,7 @@ To address this problem, we have developed a tool called KnowMore. KnowMore is a
 
   <br/> 
   <br/> 
-  <i> Illustration of the simple user side workflow of KnowMore. Note that the tool is not currently integrated in the offical SPARC Portal, but accessible through our own deployed prototype. We refer to the <a href="https://github.com/SPARC-FAIR-Codeathon/KnowMore#using-knowmore"> "Using KnowMore"</a>, section for details. </i>
+  <i> Gambar ilustrasi dalam penyelesaian masalah </i>
   </img>
 </p> 
 <br/>
